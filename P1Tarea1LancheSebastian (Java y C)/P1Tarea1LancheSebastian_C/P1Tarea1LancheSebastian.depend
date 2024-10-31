@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1730393164 source:c:\users\usuario\desktop\p1tarea1lanchesebastian\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+
+1730393164 source:c:\users\usuario\desktop\p1tarea1lanchesebastian_c\main.cpp
+	<iostream>
+	<fstream>
+	<locale.h>
+
